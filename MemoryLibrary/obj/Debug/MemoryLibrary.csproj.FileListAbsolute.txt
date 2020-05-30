@@ -1,0 +1,12 @@
+C:\Users\Stalin\source\repos\MemoryCards\MemoryLibrary\bin\Debug\MemoryLibrary.dll
+C:\Users\Stalin\source\repos\MemoryCards\MemoryLibrary\bin\Debug\MemoryLibrary.pdb
+C:\Users\Stalin\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.dll
+C:\Users\Stalin\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.pdb
+C:\Users\Stalin\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.csprojResolveAssemblyReference.cache
+c:\Users\Stalin2019\source\repos\MemoryCards\MemoryLibrary\bin\Debug\MemoryLibrary.dll
+c:\Users\Stalin2019\source\repos\MemoryCards\MemoryLibrary\bin\Debug\MemoryLibrary.pdb
+c:\Users\Stalin2019\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.csprojAssemblyReference.cache
+c:\Users\Stalin2019\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.csproj.CoreCompileInputs.cache
+c:\Users\Stalin2019\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.dll
+c:\Users\Stalin2019\source\repos\MemoryCards\MemoryLibrary\obj\Debug\MemoryLibrary.pdb
